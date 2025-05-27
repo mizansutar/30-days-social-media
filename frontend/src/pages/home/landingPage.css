@@ -1,0 +1,72 @@
+/* Base styles */
+.app-container {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #081b29;
+  color: #0ef;
+}
+
+/* Sidebars */
+.left-sidebar,
+.right-sidebar {
+  width: 200px;
+  padding: 20px;
+  background-color: #081b29;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Main content */
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+/* Story bar */
+.story-bar {
+  height: 100px;
+  background-color: #081b29;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+/* Feed */
+.feed {
+  flex: 1;
+  background-color: #081b29;
+  padding: 10px;
+  border: 1px solid #ccc;
+  overflow-y: auto;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .app-container {
+    flex-direction: column;
+  }
+
+  .left-sidebar,
+  .right-sidebar {
+    width: 100%;
+    padding: 10px;
+    border: none;
+  }
+
+  .main-content {
+    padding: 10px;
+  }
+
+  .story-bar {
+    height: auto;
+    margin-bottom: 10px;
+  }
+}

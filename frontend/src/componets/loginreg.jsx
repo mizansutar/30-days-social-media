@@ -1,47 +1,72 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
 import './login.css';
 import axios from 'axios';
 import { ToastContainer, toast } from 'react-toastify';
 import { useNavigate } from 'react-router-dom';
+import { DataContext } from '../dataPRovider/dataProvider';
 
-const LoginRegister = () => {
+const LoginRegister = ({ isUserAuth }) => {
   const [isActive, setIsActive] = useState(false);
- const navigate = useNavigate();
-  const handleLoginSubmit = (e) => {
+  const navigate = useNavigate();
+  const { setData } = useContext(DataContext);
+
+
+  const handleLoginSubmit = async (e) => {
     e.preventDefault();
     const username = document.getElementById('login-username').value;
     const password = document.getElementById('login-password').value;
     console.log('Login submitted:', { username, password });
 
-    // 👉 You can call your login API here
     const response = axios.post('http://localhost:5000/api/users/login', {
       username,
       password
+    }, {
+      withCredentials: true
     })
+
+
+    if (response.data.success) {
+      console.log("Login successful");
+      toast.success(response.data.message, {
+        position: "top-right"
+      });
+
+      sessionStorage.setItem('token', response.data.token);
+      setData(response.data.user);
+      isUserAuth(true);
+      navigate('/landing');
+    }
   };
 
-  const handleRegisterSubmit = async(e) => {
+  const handleRegisterSubmit = async (e) => {
     e.preventDefault();
     const username = document.getElementById('register-username').value;
     const email = document.getElementById('register-email').value;
     const password = document.getElementById('register-password').value;
     console.log('Signup submitted:', { username, email, password });
 
-    // 👉 You can call your registration API here
+
     try {
       const response = await axios.post('http://localhost:5000/api/users/register', {
         username,
         password,
         email
+      }, {
+        withCredentials: true
       });
 
       console.log("The response data:", response.data);
 
       if (response.data.success) {
         console.log("Registration successful");
-        toast.success("Success Notification!", {
+        toast.success(response.data.message, {
           position: "top-right"
         });
+
+        sessionStorage.setItem('token', response.data.token);
+        setData(response.data.user);
+        isUserAuth(true);
+        navigate('/landing');
       }
     } catch (error) {
       console.error("Registration failed:", error);
@@ -52,6 +77,7 @@ const LoginRegister = () => {
   }
 
   return (
+   <div className="login-register-container">
     <div className={`wrapper ${isActive ? 'active' : ''}`}>
       <span className="bg-animation"></span>
       <span className="bg-animation2"></span>
@@ -117,7 +143,9 @@ const LoginRegister = () => {
         <p className="animation" style={{ '--i': 25 }}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, soluta!</p>
       </div>
     </div>
-  );
+  
+    </div>
+  )
 };
 
 export default LoginRegister;
