@@ -5,34 +5,37 @@ const jwt = require('jsonwebtoken');
 // Register a new user
 
 const registerUser = async (req, res) => {
-    const { username, password, email } = req.body;
+  const { username, password, email } = req.body;
 
-    try {
-        // Check if user already exists
-        const existingUser = await User.findOne({ email });
-        if (existingUser) {
-            return res.status(400).json({success:false, message: 'User already exists' });
-        }
-
-        // Hash password
-        const hashedPassword = await bcrypt.hash(password, 10);
-
-        // Create new user
-        const newUser = new User({
-            username,
-            email,
-            password: hashedPassword
-        });
-
-        await newUser.save();
-
-        // Generate JWT token
-        const token = jwt.sign({ id: newUser._id },"mizan", { expiresIn: '1h' });
-
-        res.status(201).cookie("token", token, { httpOnly: true }).json({ msg: 'User registered successfully', success:true});
-    } catch (error) {
-        res.status(500).json({ message: 'Server error' });
+  try {
+    // Check if user already exists
+    const existingUser = await User.findOne({ email });
+    if (existingUser) {
+      return res.status(400).json({ success: false, message: 'User already exists' });
     }
+
+    // Hash password
+    const hashedPassword = await bcrypt.hash(password, 10);
+
+    // Create new user
+    const newUser = new User({
+      username,
+      email,
+      password: hashedPassword
+    });
+
+    await newUser.save();
+
+    const Thisuser = await User.findOne({ email });
+
+
+    // Generate JWT token
+    const token = jwt.sign({ id: newUser._id }, "mizan", { expiresIn: '1h' });
+    console.log("Token generated:", token);
+    res.status(201).json({ message: 'User registered successfully', success: true ,token: token, user: Thisuser });
+  } catch (error) {
+    res.status(500).json({ message: 'Server error' });
+  }
 };
 
 
@@ -64,6 +67,6 @@ const loginUser = async (req, res) => {
 };
 
 module.exports = {
-    registerUser,
-    loginUser
+  registerUser,
+  loginUser
 };
