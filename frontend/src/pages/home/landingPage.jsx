@@ -1,5 +1,5 @@
 import React from 'react'
-import LeftSidebar from './LeftSidebar'
+import LeftSidebar from './leftBar/LeftSidebar'
 import RightSidebar from './RightSidebar'
 import StoryBar from './StoryBar'
 import Feed from './Feed'
