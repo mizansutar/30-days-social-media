@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 5000;
 
 
 app.use(cors({
-    origin: "*", // Replace with your frontend URL
+    origin: "http://localhost:3000", // Replace with your frontend URL
     credentials: true, // Allow cookies
 }));
 app.use(express.urlencoded({ extended: true }));
@@ -34,11 +34,6 @@ const storage = multer.diskStorage({
     },
 })
 const upload = multer({ storage });
-
-
-
-
-
 
 
 app.use('/api/users', userRouter);

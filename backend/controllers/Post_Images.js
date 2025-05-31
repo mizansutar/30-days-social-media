@@ -30,5 +30,4 @@ const CreatePost_Image = async (req, res) => {
 
 }
 
-
 module.exports = CreatePost_Image;
