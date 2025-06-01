@@ -6,7 +6,17 @@ const userRouter = require('./routes/user_router');
 const cookieParser = require("cookie-parser");
 const multer = require('multer');
 const ImageRouter = require('./routes/image');
+const VideoRouter = require('./routes/video');
+
+
+
 const PostRouter = require('./routes/Post_routes');
+const PollRouter = require('./routes/poll_routes');
+const TextStoryRouter = require('./routes/Text_story');
+const Video_postingRouter= require('./routes/Video_posting');
+
+
+
 const app = express();
 const PORT = process.env.PORT || 5000;
 
@@ -38,7 +48,11 @@ const upload = multer({ storage });
 
 app.use('/api/users', userRouter);
 app.use('/api/images', ImageRouter);
+app.use('/api/videos', VideoRouter);
 app.use('/api/posts', PostRouter);
+app.use('/api/text-stories', TextStoryRouter);
+app.use('/api/video-posts', Video_postingRouter);
+app.use('/api/polls', PollRouter);
 
 app.listen(PORT, () => {
     // Connect to the database

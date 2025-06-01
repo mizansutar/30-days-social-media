@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext, useState, useEffect } from 'react';
 import './create-post.css';
 import LeftSidebar from "../home/leftBar/LeftSidebar";
 import { DataContext } from "../../dataPRovider/dataProvider";
@@ -8,8 +8,10 @@ import DialogContent from '@mui/material/DialogContent';
 import DialogActions from '@mui/material/DialogActions';
 import Button from '@mui/material/Button';
 import axios from 'axios';
-
+import { useSelector } from 'react-redux';
+import { toast } from 'react-toastify';
 export default function CreatePost() {
+  const { user } = useSelector(state => state.user);
   const { data } = useContext(DataContext);
   const [open, setOpen] = useState(false);
   const [selectedPostType, setSelectedPostType] = useState('');
@@ -22,7 +24,7 @@ export default function CreatePost() {
   const [pollData, setPollData] = useState({
     question: '',
     options: ['', '', '', ''],
-    correctAnswer: '',
+    correctOptionIndex: '', // should be index (string or number)
   });
   const [visibility, setVisibility] = useState('public');
 
@@ -38,7 +40,7 @@ export default function CreatePost() {
     });
   };
   const handlePollCorrectAnswerChange = (e) => {
-    setPollData((prev) => ({ ...prev, correctAnswer: e.target.value }));
+    setPollData((prev) => ({ ...prev, correctOptionIndex: e.target.value }));
   };
 
   const handleCardClick = (postType) => {
@@ -58,7 +60,7 @@ export default function CreatePost() {
     setPollData({
       question: '',
       options: ['', '', '', ''],
-      correctAnswer: '',
+      correctOptionIndex: '',
     });
     setVisibility('public');
   };
@@ -85,51 +87,106 @@ export default function CreatePost() {
     }
     handleClose(); // Close dialog after submission
   };
+  useEffect(() => {
+    const token = localStorage.getItem('token');
+    console.log("data", data);
+    console.log("Token:", token);
+
+    // Optionally, you can verify the token or fetch user data here
+  }, []);
+
+
 
   const handleTextPostSubmit = async () => {
+    const token = localStorage.getItem('token');
+    console.log("Token:", token);
     try {
-      await axios.post('/api/posts/create', {
+      const res = await axios.post('http://localhost:5000/api/text-stories/create', {
         description: textContent,
         privacy: visibility,
-        type: "text",
-        author: data?._id,
+      }, {
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`, // Assuming you have a token for auth
+        }
       });
+
+      if (res.data.success) {
+        toast.success("Text post created successfully!", {
+          position: "top-right",
+          delay: 1000,
+        });
+      }
     } catch (err) {
       console.error("Text post error:", err);
     }
   };
 
+
   const handlePhotoPostSubmit = async () => {
     if (!photo) return;
+    const token = localStorage.getItem('token');
     try {
+      if (!user?._id) {
+        console.error("User ID is not available");
+        toast.error("User not authenticated.", { position: "top-right" });
+        return;
+      }
+      if (!photoDesc || !visibility || !photo) {
+        console.error("Missing required fields");
+        toast.error("Please fill in all fields before submitting.", {
+          position: "top-right",
+          delay: 1000,
+        });
+        return;
+      }
       const formData = new FormData();
       formData.append("file", photo);
       formData.append("description", photoDesc);
       formData.append("privacy", visibility);
       formData.append("type", "photo");
-      formData.append("author", data?._id);
+      formData.append("author", user._id);
 
-      await axios.post('/api/posts/create', formData, {
-        headers: { "Content-Type": "multipart/form-data" },
+     const res= await axios.post('http://localhost:5000/api/posts/create', formData, {
+        headers: {
+          "Content-Type": "multipart/form-data",
+          "Authorization": `Bearer ${token}`,
+        },
       });
+        if (res.data.success) {
+        toast.success("Photo post created successfully!", {
+          position: "top-right",
+          delay: 1000,
+        });
+      }
     } catch (err) {
       console.error("Photo post error:", err);
+      toast.error("Failed to create photo post.", { position: "top-right" });
     }
   };
 
   const handleReelPostSubmit = async () => {
     if (!reel) return;
     try {
+      const token = localStorage.getItem('token');
       const formData = new FormData();
       formData.append("file", reel);
       formData.append("description", videoDesc);
       formData.append("privacy", visibility);
-      formData.append("type", "reel");
-      formData.append("author", data?._id);
+      formData.append("author", user?._id || data?._id);
 
-      await axios.post('/api/posts/create', formData, {
-        headers: { "Content-Type": "multipart/form-data" },
+      const res = await axios.post('http://localhost:5000/api/video-posts/create', formData, {
+        headers: {
+          "Content-Type": "multipart/form-data",
+          "Authorization": `Bearer ${token}`,
+        },
       });
+        if (res.data.success) {
+        toast.success("Text post created successfully!", {
+          position: "top-right",
+          delay: 1000,
+        });
+      }
     } catch (err) {
       console.error("Reel post error:", err);
     }
@@ -137,12 +194,18 @@ export default function CreatePost() {
 
   const handleLivePostSubmit = async () => {
     try {
-      await axios.post('/api/posts/create', {
+     const res= await axios.post('/api/posts/create', {
         title: liveTitle,
         privacy: visibility,
         type: "live",
         author: data?._id,
       });
+      if (res.data.success) {
+        toast.success("Live post created successfully!", {
+          position: "top-right",
+          delay: 1000,
+        });
+      }
     } catch (err) {
       console.error("Live post error:", err);
     }
@@ -150,16 +213,27 @@ export default function CreatePost() {
 
   const handlePollPostSubmit = async () => {
     try {
-      await axios.post('/api/posts/create', {
+      const token = localStorage.getItem('token');
+      // Transform options: ["aa", "bb"] => [{ text: "aa" }, { text: "bb" }]
+      const formattedOptions = pollData.options.map(opt => ({ text: opt }));
+
+      await axios.post('http://localhost:5000/api/polls/create', {
         question: pollData.question,
-        options: pollData.options,
-        correctAnswer: pollData.correctAnswer,
+        options: formattedOptions,
+        correctOptionIndex: Number(pollData.correctOptionIndex),
         privacy: visibility,
         type: "poll",
-        author: data?._id,
+        author: user._id,
+      }, {
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`,
+        }
       });
+      toast.success("Poll created successfully!", { position: "top-right" });
     } catch (err) {
       console.error("Poll post error:", err);
+      toast.error("Failed to create poll.", { position: "top-right" });
     }
   };
 
@@ -175,7 +249,7 @@ export default function CreatePost() {
           </div>
           <div className="right">
             <div className="profile">
-              <div className="profile-name">{data?.username}</div>
+              <div className="profile-name">{user?.username}</div>
               <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" className='avatar' />
             </div>
           </div>
@@ -223,13 +297,30 @@ export default function CreatePost() {
         <DialogContent>
           {/* Text */}
           {selectedPostType === 'Text' && (
-            <textarea
-              placeholder="Write your text post here..."
-              rows="4"
-              className='text-input'
-              value={textContent}
-              onChange={(e) => setTextContent(e.target.value)}
-            />
+            <>
+              <textarea
+                placeholder="Write your text post here..."
+                rows="4"
+                className='text-input'
+                value={textContent}
+                onChange={(e) => setTextContent(e.target.value)}
+              />
+              <fieldset className="radio-group">
+                <legend>Visibility</legend>
+                <label className="radio-label">
+                  <input type="radio" name="visibility" value="public"
+                    checked={visibility === 'public'}
+                    onChange={(e) => setVisibility(e.target.value)} />
+                  Public
+                </label>
+                <label className="radio-label">
+                  <input type="radio" name="visibility" value="private"
+                    checked={visibility === 'private'}
+                    onChange={(e) => setVisibility(e.target.value)} />
+                  Private
+                </label>
+              </fieldset>
+            </>
           )}
           {/* Photo */}
           {selectedPostType === 'Photo' && (
@@ -355,12 +446,12 @@ export default function CreatePost() {
                 id="answer"
                 name="answer"
                 className="text-input-option"
-                value={pollData.correctAnswer}
+                value={pollData.correctOptionIndex}
                 onChange={handlePollCorrectAnswerChange}
               >
                 <option value="">Select correct option</option>
                 {pollData.options.map((opt, idx) => (
-                  <option key={idx} value={opt}>{opt || `Option ${idx + 1}`}</option>
+                  <option key={idx} value={idx}>{opt || `Option ${idx + 1}`}</option>
                 ))}
               </select>
               <fieldset className="radio-group">

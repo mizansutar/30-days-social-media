@@ -1,25 +1,5 @@
-const video = require('../models/video');
-const Url="http://localhost:5000"
-const uploadVideo = async (req, res) => {
-  try {
-    if (!req.file) {
-      return res.status(400).json({ error: "No file uploaded" });
-    }
-
-    const vid = {
-      filename: req.file.originalname,
-      contentType: req.file.mimetype,
-      videoBase64: req.file.buffer.toString('base64')
-    };
-
-    const newVideo = new Video(vid);
-    await newVideo.save();
-    const videoUrl = `${Url}/video/${newVideo._id}`;
-    return res.status(200).json( videoUrl);
-  } catch (err) {
-    return res.status(500).json({ error: err.message });
-  }
-};
+const Video = require('../models/video'); // Make sure this is the correct model
+const Url="http://localhost:5000";
 
 const getVideo = async (req, res) => {
   try {
@@ -27,12 +7,21 @@ const getVideo = async (req, res) => {
     if (!video) {
       return res.status(404).json({ message: 'Video not found' });
     }
+    // Debug: log the video document
+    console.log('Fetched video:', video);
+
+    // Use the correct field name for the base64 data
+    if (!video.videoBase64) {
+      return res.status(500).json({ message: 'Video data is missing in the database.' });
+    }
+
     res.set('Content-Type', video.contentType);
     res.send(Buffer.from(video.videoBase64, 'base64'));
   } catch (err) {
+    console.error('Error retrieving video:', err);
     res.status(500).json({ error: err.message });
   }
 };
 
-module.exports = { uploadVideo, getVideo };
+module.exports = { getVideo };
 
