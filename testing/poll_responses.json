@@ -1,0 +1,3702 @@
+[
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Ea utor curto cruentus vomica accusantium cervus ustulo abbas tres?",
+      "options": [
+        {
+          "text": "resource",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa25"
+        },
+        {
+          "text": "councilman",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa26"
+        },
+        {
+          "text": "disappointment",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa27"
+        },
+        {
+          "text": "ecliptic",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa28"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d04164f05af3cec49f",
+      "_id": "684ee1189ce65e8113fbaa24",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.069Z",
+      "updatedAt": "2025-06-15T15:04:56.069Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Cribro atrox corporis umerus caelestis ver?",
+      "options": [
+        {
+          "text": "adviser",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa2c"
+        },
+        {
+          "text": "SUV",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa2d"
+        },
+        {
+          "text": "quinoa",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa2e"
+        },
+        {
+          "text": "alliance",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa2f"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d04164f05af3cec4a3",
+      "_id": "684ee1189ce65e8113fbaa2b",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.093Z",
+      "updatedAt": "2025-06-15T15:04:56.093Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Stipes audax desolo ventus autem?",
+      "options": [
+        {
+          "text": "kick",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa33"
+        },
+        {
+          "text": "planula",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa34"
+        },
+        {
+          "text": "retrospectivity",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa35"
+        },
+        {
+          "text": "configuration",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa36"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d04164f05af3cec4a7",
+      "_id": "684ee1189ce65e8113fbaa32",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.108Z",
+      "updatedAt": "2025-06-15T15:04:56.108Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Facilis argumentum architecto adfero synagoga canis desparatus adeptio substantia?",
+      "options": [
+        {
+          "text": "lamp",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa3a"
+        },
+        {
+          "text": "tune-up",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa3b"
+        },
+        {
+          "text": "newsstand",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa3c"
+        },
+        {
+          "text": "utilization",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa3d"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d04164f05af3cec4ab",
+      "_id": "684ee1189ce65e8113fbaa39",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.121Z",
+      "updatedAt": "2025-06-15T15:04:56.121Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Deinde tenax fugiat spiritus cetera cauda consectetur tantillus vesper?",
+      "options": [
+        {
+          "text": "councilman",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa41"
+        },
+        {
+          "text": "laughter",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa42"
+        },
+        {
+          "text": "lifestyle",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa43"
+        },
+        {
+          "text": "cinder",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa44"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d04164f05af3cec4af",
+      "_id": "684ee1189ce65e8113fbaa40",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.138Z",
+      "updatedAt": "2025-06-15T15:04:56.138Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Volup valde nobis conatus adinventitias suggero audacia ter?",
+      "options": [
+        {
+          "text": "recovery",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa48"
+        },
+        {
+          "text": "creature",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa49"
+        },
+        {
+          "text": "academics",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa4a"
+        },
+        {
+          "text": "impostor",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa4b"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d04164f05af3cec4b3",
+      "_id": "684ee1189ce65e8113fbaa47",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.153Z",
+      "updatedAt": "2025-06-15T15:04:56.153Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Amplus vesica amitto basium cubo alienus vel et aeger?",
+      "options": [
+        {
+          "text": "hydrant",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa4f"
+        },
+        {
+          "text": "cope",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa50"
+        },
+        {
+          "text": "expansion",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa51"
+        },
+        {
+          "text": "heartache",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa52"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d04164f05af3cec4b7",
+      "_id": "684ee1189ce65e8113fbaa4e",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.167Z",
+      "updatedAt": "2025-06-15T15:04:56.167Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Defero casus surculus villa?",
+      "options": [
+        {
+          "text": "cheetah",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa56"
+        },
+        {
+          "text": "t-shirt",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa57"
+        },
+        {
+          "text": "horde",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa58"
+        },
+        {
+          "text": "nightlife",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa59"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4bb",
+      "_id": "684ee1189ce65e8113fbaa55",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.179Z",
+      "updatedAt": "2025-06-15T15:04:56.179Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Valens sonitus demum?",
+      "options": [
+        {
+          "text": "unibody",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa5d"
+        },
+        {
+          "text": "lieu",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa5e"
+        },
+        {
+          "text": "hydrant",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa5f"
+        },
+        {
+          "text": "exterior",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa60"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4bf",
+      "_id": "684ee1189ce65e8113fbaa5c",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.194Z",
+      "updatedAt": "2025-06-15T15:04:56.194Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Altus volutabrum vulnus ambulo tamisium textus coniecto?",
+      "options": [
+        {
+          "text": "eyeliner",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa64"
+        },
+        {
+          "text": "foodstuffs",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa65"
+        },
+        {
+          "text": "space",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa66"
+        },
+        {
+          "text": "hamburger",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa67"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4c3",
+      "_id": "684ee1189ce65e8113fbaa63",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.209Z",
+      "updatedAt": "2025-06-15T15:04:56.209Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Quisquam terminatio depopulo perferendis quod timidus cometes strenuus arma?",
+      "options": [
+        {
+          "text": "descent",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa6b"
+        },
+        {
+          "text": "tuba",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa6c"
+        },
+        {
+          "text": "apricot",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa6d"
+        },
+        {
+          "text": "expansion",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa6e"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4c7",
+      "_id": "684ee1189ce65e8113fbaa6a",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.221Z",
+      "updatedAt": "2025-06-15T15:04:56.221Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Una dolor depromo aliquam atrocitas nobis?",
+      "options": [
+        {
+          "text": "vein",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa72"
+        },
+        {
+          "text": "desk",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa73"
+        },
+        {
+          "text": "minion",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa74"
+        },
+        {
+          "text": "glider",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa75"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4cb",
+      "_id": "684ee1189ce65e8113fbaa71",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.233Z",
+      "updatedAt": "2025-06-15T15:04:56.233Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Conculco cetera totam texo harum?",
+      "options": [
+        {
+          "text": "operating",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa79"
+        },
+        {
+          "text": "replacement",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa7a"
+        },
+        {
+          "text": "tomb",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa7b"
+        },
+        {
+          "text": "eternity",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa7c"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4cf",
+      "_id": "684ee1189ce65e8113fbaa78",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.244Z",
+      "updatedAt": "2025-06-15T15:04:56.244Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Tepesco ventus sperno tergiversatio tendo?",
+      "options": [
+        {
+          "text": "meadow",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa80"
+        },
+        {
+          "text": "tribe",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa81"
+        },
+        {
+          "text": "wasabi",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa82"
+        },
+        {
+          "text": "substitution",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa83"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4d3",
+      "_id": "684ee1189ce65e8113fbaa7f",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.256Z",
+      "updatedAt": "2025-06-15T15:04:56.256Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Absens patior conqueror veniam ulciscor uberrime explicabo?",
+      "options": [
+        {
+          "text": "coin",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa87"
+        },
+        {
+          "text": "saloon",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa88"
+        },
+        {
+          "text": "airman",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa89"
+        },
+        {
+          "text": "ceramics",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa8a"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4d7",
+      "_id": "684ee1189ce65e8113fbaa86",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.268Z",
+      "updatedAt": "2025-06-15T15:04:56.268Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Creptio vitium contra thema caecus animadverto?",
+      "options": [
+        {
+          "text": "flu",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa8e"
+        },
+        {
+          "text": "bin",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa8f"
+        },
+        {
+          "text": "guidance",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa90"
+        },
+        {
+          "text": "instruction",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa91"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4db",
+      "_id": "684ee1189ce65e8113fbaa8d",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.282Z",
+      "updatedAt": "2025-06-15T15:04:56.282Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Aliquam tempore illum testimonium crur caste cunae terebro eveniet laboriosam?",
+      "options": [
+        {
+          "text": "barracks",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa95"
+        },
+        {
+          "text": "roundabout",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa96"
+        },
+        {
+          "text": "cosset",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa97"
+        },
+        {
+          "text": "tenant",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa98"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d14164f05af3cec4df",
+      "_id": "684ee1189ce65e8113fbaa94",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.293Z",
+      "updatedAt": "2025-06-15T15:04:56.293Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Enim condico tam traho desparatus currus cibo vigor?",
+      "options": [
+        {
+          "text": "sonata",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa9c"
+        },
+        {
+          "text": "trash",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa9d"
+        },
+        {
+          "text": "approach",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa9e"
+        },
+        {
+          "text": "airbus",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaa9f"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec4e3",
+      "_id": "684ee1189ce65e8113fbaa9b",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.306Z",
+      "updatedAt": "2025-06-15T15:04:56.306Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Adeptio abutor capto colo combibo voveo contigo?",
+      "options": [
+        {
+          "text": "management",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaa3"
+        },
+        {
+          "text": "providence",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaa4"
+        },
+        {
+          "text": "obedience",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaa5"
+        },
+        {
+          "text": "godfather",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaa6"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec4e7",
+      "_id": "684ee1189ce65e8113fbaaa2",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.320Z",
+      "updatedAt": "2025-06-15T15:04:56.320Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Atavus dicta concido stillicidium?",
+      "options": [
+        {
+          "text": "pinstripe",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaaa"
+        },
+        {
+          "text": "noon",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaab"
+        },
+        {
+          "text": "language",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaac"
+        },
+        {
+          "text": "sticker",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaad"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec4eb",
+      "_id": "684ee1189ce65e8113fbaaa9",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.334Z",
+      "updatedAt": "2025-06-15T15:04:56.334Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Venia vetus cuius vix tergiversatio antea asporto tertius solus?",
+      "options": [
+        {
+          "text": "colon",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaab1"
+        },
+        {
+          "text": "ecliptic",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaab2"
+        },
+        {
+          "text": "dandelion",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaab3"
+        },
+        {
+          "text": "juggernaut",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaab4"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec4ef",
+      "_id": "684ee1189ce65e8113fbaab0",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.345Z",
+      "updatedAt": "2025-06-15T15:04:56.345Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Patruus ipsam alienus vomica?",
+      "options": [
+        {
+          "text": "schedule",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaab8"
+        },
+        {
+          "text": "larva",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaab9"
+        },
+        {
+          "text": "descent",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaba"
+        },
+        {
+          "text": "brief",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaabb"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec4f3",
+      "_id": "684ee1189ce65e8113fbaab7",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.357Z",
+      "updatedAt": "2025-06-15T15:04:56.357Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Iure virga attonbitus argumentum unde adhaero aliquam?",
+      "options": [
+        {
+          "text": "retrospectivity",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaabf"
+        },
+        {
+          "text": "resolve",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaac0"
+        },
+        {
+          "text": "agreement",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaac1"
+        },
+        {
+          "text": "vista",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaac2"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec4f7",
+      "_id": "684ee1189ce65e8113fbaabe",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.369Z",
+      "updatedAt": "2025-06-15T15:04:56.369Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Apto contigo turpis?",
+      "options": [
+        {
+          "text": "interchange",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaac6"
+        },
+        {
+          "text": "chiffonier",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaac7"
+        },
+        {
+          "text": "creator",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaac8"
+        },
+        {
+          "text": "forage",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaac9"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec4fb",
+      "_id": "684ee1189ce65e8113fbaac5",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.382Z",
+      "updatedAt": "2025-06-15T15:04:56.382Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Celer cauda terga cogo cultellus quos comminor thalassinus?",
+      "options": [
+        {
+          "text": "topsail",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaacd"
+        },
+        {
+          "text": "availability",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaace"
+        },
+        {
+          "text": "almighty",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaacf"
+        },
+        {
+          "text": "spirit",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaad0"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec4ff",
+      "_id": "684ee1189ce65e8113fbaacc",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.396Z",
+      "updatedAt": "2025-06-15T15:04:56.396Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Nemo aestus vigor administratio degenero suscipit capitulus truculenter?",
+      "options": [
+        {
+          "text": "cake",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaad4"
+        },
+        {
+          "text": "whale",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaad5"
+        },
+        {
+          "text": "commercial",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaad6"
+        },
+        {
+          "text": "coil",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaad7"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d24164f05af3cec503",
+      "_id": "684ee1189ce65e8113fbaad3",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.410Z",
+      "updatedAt": "2025-06-15T15:04:56.410Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Coerceo vir adfectus?",
+      "options": [
+        {
+          "text": "produce",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaadb"
+        },
+        {
+          "text": "exploration",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaadc"
+        },
+        {
+          "text": "pliers",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaadd"
+        },
+        {
+          "text": "sonar",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaade"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec507",
+      "_id": "684ee1189ce65e8113fbaada",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.424Z",
+      "updatedAt": "2025-06-15T15:04:56.424Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Acervus acer patruus summa nihil desparatus aequus ciminatio stipes suffragium?",
+      "options": [
+        {
+          "text": "testimonial",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaae2"
+        },
+        {
+          "text": "willow",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaae3"
+        },
+        {
+          "text": "publication",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaae4"
+        },
+        {
+          "text": "parsnip",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaae5"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec50b",
+      "_id": "684ee1189ce65e8113fbaae1",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.438Z",
+      "updatedAt": "2025-06-15T15:04:56.438Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Creator soluta umquam vicissitudo accommodo cernuus defungo abeo?",
+      "options": [
+        {
+          "text": "march",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaae9"
+        },
+        {
+          "text": "almighty",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaea"
+        },
+        {
+          "text": "monasticism",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaeb"
+        },
+        {
+          "text": "other",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaec"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec50f",
+      "_id": "684ee1189ce65e8113fbaae8",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.450Z",
+      "updatedAt": "2025-06-15T15:04:56.450Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Decor tamquam tabula villa uberrime?",
+      "options": [
+        {
+          "text": "fishery",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaf0"
+        },
+        {
+          "text": "step-mother",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaf1"
+        },
+        {
+          "text": "bonnet",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaf2"
+        },
+        {
+          "text": "illusion",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaf3"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec513",
+      "_id": "684ee1189ce65e8113fbaaef",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.461Z",
+      "updatedAt": "2025-06-15T15:04:56.461Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Tracto solvo casso auctor odit delectatio temperantia casso?",
+      "options": [
+        {
+          "text": "pilot",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaf7"
+        },
+        {
+          "text": "birdcage",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaf8"
+        },
+        {
+          "text": "sermon",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaf9"
+        },
+        {
+          "text": "surface",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaafa"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec517",
+      "_id": "684ee1189ce65e8113fbaaf6",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.474Z",
+      "updatedAt": "2025-06-15T15:04:56.474Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Soleo crapula saepe spoliatio?",
+      "options": [
+        {
+          "text": "shadowbox",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaafe"
+        },
+        {
+          "text": "wilderness",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaaff"
+        },
+        {
+          "text": "lace",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab00"
+        },
+        {
+          "text": "soybean",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab01"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec51b",
+      "_id": "684ee1189ce65e8113fbaafd",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.486Z",
+      "updatedAt": "2025-06-15T15:04:56.486Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Deleniti animadverto animadverto desino adeo verumtamen thermae calamitas?",
+      "options": [
+        {
+          "text": "mozzarella",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab05"
+        },
+        {
+          "text": "eyebrow",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab06"
+        },
+        {
+          "text": "soliloquy",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab07"
+        },
+        {
+          "text": "morbidity",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab08"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec51f",
+      "_id": "684ee1189ce65e8113fbab04",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.499Z",
+      "updatedAt": "2025-06-15T15:04:56.499Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Consectetur aggredior esse?",
+      "options": [
+        {
+          "text": "dandelion",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab0c"
+        },
+        {
+          "text": "instructor",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab0d"
+        },
+        {
+          "text": "safe",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab0e"
+        },
+        {
+          "text": "wafer",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab0f"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec523",
+      "_id": "684ee1189ce65e8113fbab0b",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.512Z",
+      "updatedAt": "2025-06-15T15:04:56.512Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Impedit cariosus tactus amplitudo adsum defleo consequuntur celo voveo?",
+      "options": [
+        {
+          "text": "integer",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab13"
+        },
+        {
+          "text": "hope",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab14"
+        },
+        {
+          "text": "sideboard",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab15"
+        },
+        {
+          "text": "tomb",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab16"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec527",
+      "_id": "684ee1189ce65e8113fbab12",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.525Z",
+      "updatedAt": "2025-06-15T15:04:56.525Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Stella contego vox ea?",
+      "options": [
+        {
+          "text": "ignorance",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab1a"
+        },
+        {
+          "text": "brief",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab1b"
+        },
+        {
+          "text": "address",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab1c"
+        },
+        {
+          "text": "igloo",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab1d"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d34164f05af3cec52b",
+      "_id": "684ee1189ce65e8113fbab19",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.539Z",
+      "updatedAt": "2025-06-15T15:04:56.539Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Acervus voluntarius utrum cribro conscendo crastinus uberrime?",
+      "options": [
+        {
+          "text": "self-confidence",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab21"
+        },
+        {
+          "text": "alligator",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab22"
+        },
+        {
+          "text": "vicinity",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab23"
+        },
+        {
+          "text": "pigsty",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab24"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec52f",
+      "_id": "684ee1189ce65e8113fbab20",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.552Z",
+      "updatedAt": "2025-06-15T15:04:56.552Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Varietas cubitum tardus ante minima pecco velociter?",
+      "options": [
+        {
+          "text": "heating",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab28"
+        },
+        {
+          "text": "soybean",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab29"
+        },
+        {
+          "text": "hepatitis",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab2a"
+        },
+        {
+          "text": "dulcimer",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab2b"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec533",
+      "_id": "684ee1189ce65e8113fbab27",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.567Z",
+      "updatedAt": "2025-06-15T15:04:56.567Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Placeat caste spiculum viriliter vomica cura?",
+      "options": [
+        {
+          "text": "collectivization",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab2f"
+        },
+        {
+          "text": "handover",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab30"
+        },
+        {
+          "text": "singing",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab31"
+        },
+        {
+          "text": "footrest",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab32"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec537",
+      "_id": "684ee1189ce65e8113fbab2e",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.581Z",
+      "updatedAt": "2025-06-15T15:04:56.581Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Creber pauper sum cui?",
+      "options": [
+        {
+          "text": "complication",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab36"
+        },
+        {
+          "text": "impact",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab37"
+        },
+        {
+          "text": "jazz",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab38"
+        },
+        {
+          "text": "wriggler",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab39"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec53b",
+      "_id": "684ee1189ce65e8113fbab35",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.592Z",
+      "updatedAt": "2025-06-15T15:04:56.592Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Deporto solum adimpleo aliqua demoror statua confero arbor reiciendis caterva?",
+      "options": [
+        {
+          "text": "stool",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab3d"
+        },
+        {
+          "text": "armchair",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab3e"
+        },
+        {
+          "text": "cross-contamination",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab3f"
+        },
+        {
+          "text": "mentor",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab40"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec53f",
+      "_id": "684ee1189ce65e8113fbab3c",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.606Z",
+      "updatedAt": "2025-06-15T15:04:56.606Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Cunabula coadunatio abutor cicuta desidero creator sapiente velum?",
+      "options": [
+        {
+          "text": "doing",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab44"
+        },
+        {
+          "text": "scale",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab45"
+        },
+        {
+          "text": "pinstripe",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab46"
+        },
+        {
+          "text": "crocodile",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab47"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec543",
+      "_id": "684ee1189ce65e8113fbab43",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.617Z",
+      "updatedAt": "2025-06-15T15:04:56.617Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Utrimque damnatio animi incidunt comedo?",
+      "options": [
+        {
+          "text": "omelet",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab4b"
+        },
+        {
+          "text": "best-seller",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab4c"
+        },
+        {
+          "text": "costume",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab4d"
+        },
+        {
+          "text": "brace",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab4e"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec547",
+      "_id": "684ee1189ce65e8113fbab4a",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.629Z",
+      "updatedAt": "2025-06-15T15:04:56.629Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Placeat nihil cauda cicuta teneo pax varius anser creta?",
+      "options": [
+        {
+          "text": "release",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab52"
+        },
+        {
+          "text": "knickers",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab53"
+        },
+        {
+          "text": "sailor",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab54"
+        },
+        {
+          "text": "restaurant",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab55"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec54b",
+      "_id": "684ee1189ce65e8113fbab51",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.640Z",
+      "updatedAt": "2025-06-15T15:04:56.640Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Complectus certus terreo tergum soleo denuo perferendis?",
+      "options": [
+        {
+          "text": "hawk",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab59"
+        },
+        {
+          "text": "louse",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab5a"
+        },
+        {
+          "text": "brief",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab5b"
+        },
+        {
+          "text": "space",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab5c"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec54f",
+      "_id": "684ee1189ce65e8113fbab58",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.653Z",
+      "updatedAt": "2025-06-15T15:04:56.653Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Tricesimus certe tubineus spargo appono ultra coadunatio uberrime capillus cupiditate?",
+      "options": [
+        {
+          "text": "finger",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab60"
+        },
+        {
+          "text": "cauliflower",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab61"
+        },
+        {
+          "text": "governance",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab62"
+        },
+        {
+          "text": "oil",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab63"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec553",
+      "_id": "684ee1189ce65e8113fbab5f",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.664Z",
+      "updatedAt": "2025-06-15T15:04:56.664Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Adsidue cenaculum crastinus acies vos ustulo virtus defleo?",
+      "options": [
+        {
+          "text": "fundraising",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab67"
+        },
+        {
+          "text": "monocle",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab68"
+        },
+        {
+          "text": "premier",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab69"
+        },
+        {
+          "text": "decision",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab6a"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d44164f05af3cec557",
+      "_id": "684ee1189ce65e8113fbab66",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.682Z",
+      "updatedAt": "2025-06-15T15:04:56.682Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Voluptatum apparatus usitas amaritudo antea statua?",
+      "options": [
+        {
+          "text": "obedience",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab6e"
+        },
+        {
+          "text": "density",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab6f"
+        },
+        {
+          "text": "thread",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab70"
+        },
+        {
+          "text": "cutover",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab71"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec55b",
+      "_id": "684ee1189ce65e8113fbab6d",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.698Z",
+      "updatedAt": "2025-06-15T15:04:56.698Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Tero quasi adipisci culpo accusamus apud autus?",
+      "options": [
+        {
+          "text": "impostor",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab75"
+        },
+        {
+          "text": "hundred",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab76"
+        },
+        {
+          "text": "handover",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab77"
+        },
+        {
+          "text": "barge",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab78"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec55f",
+      "_id": "684ee1189ce65e8113fbab74",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.714Z",
+      "updatedAt": "2025-06-15T15:04:56.714Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Carpo demergo ipsum cattus?",
+      "options": [
+        {
+          "text": "label",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab7c"
+        },
+        {
+          "text": "petticoat",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab7d"
+        },
+        {
+          "text": "newsprint",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab7e"
+        },
+        {
+          "text": "nectarine",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab7f"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec563",
+      "_id": "684ee1189ce65e8113fbab7b",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.726Z",
+      "updatedAt": "2025-06-15T15:04:56.726Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Xiphias autus tergum tracto admoveo doloremque arbor?",
+      "options": [
+        {
+          "text": "sideboard",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab83"
+        },
+        {
+          "text": "exhaust",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab84"
+        },
+        {
+          "text": "moment",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab85"
+        },
+        {
+          "text": "porter",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab86"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec567",
+      "_id": "684ee1189ce65e8113fbab82",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.741Z",
+      "updatedAt": "2025-06-15T15:04:56.741Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Astrum cinis vicissitudo capio?",
+      "options": [
+        {
+          "text": "ad",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab8a"
+        },
+        {
+          "text": "euphonium",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab8b"
+        },
+        {
+          "text": "embossing",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab8c"
+        },
+        {
+          "text": "aftermath",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab8d"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec56b",
+      "_id": "684ee1189ce65e8113fbab89",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.754Z",
+      "updatedAt": "2025-06-15T15:04:56.754Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Adhuc virgo volubilis umbra demonstro aegrotatio?",
+      "options": [
+        {
+          "text": "reach",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab91"
+        },
+        {
+          "text": "willow",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab92"
+        },
+        {
+          "text": "decryption",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab93"
+        },
+        {
+          "text": "pine",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab94"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec56f",
+      "_id": "684ee1189ce65e8113fbab90",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.765Z",
+      "updatedAt": "2025-06-15T15:04:56.765Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Censura vis communis?",
+      "options": [
+        {
+          "text": "decongestant",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab98"
+        },
+        {
+          "text": "noon",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab99"
+        },
+        {
+          "text": "wheel",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab9a"
+        },
+        {
+          "text": "platypus",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab9b"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec573",
+      "_id": "684ee1189ce65e8113fbab97",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.777Z",
+      "updatedAt": "2025-06-15T15:04:56.777Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Colo victoria cognatus eos voluptates thalassinus?",
+      "options": [
+        {
+          "text": "tabletop",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbab9f"
+        },
+        {
+          "text": "pleasure",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaba0"
+        },
+        {
+          "text": "impact",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaba1"
+        },
+        {
+          "text": "secret",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaba2"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec577",
+      "_id": "684ee1189ce65e8113fbab9e",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.788Z",
+      "updatedAt": "2025-06-15T15:04:56.788Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Conor animus admoveo decerno vigor damno strues tenuis?",
+      "options": [
+        {
+          "text": "velocity",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaba6"
+        },
+        {
+          "text": "traditionalism",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaba7"
+        },
+        {
+          "text": "marksman",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaba8"
+        },
+        {
+          "text": "pension",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbaba9"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d54164f05af3cec57b",
+      "_id": "684ee1189ce65e8113fbaba5",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.799Z",
+      "updatedAt": "2025-06-15T15:04:56.799Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Ubi complectus fugit textus?",
+      "options": [
+        {
+          "text": "violin",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabad"
+        },
+        {
+          "text": "ad",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabae"
+        },
+        {
+          "text": "atrium",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabaf"
+        },
+        {
+          "text": "doorpost",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabb0"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec57f",
+      "_id": "684ee1189ce65e8113fbabac",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.812Z",
+      "updatedAt": "2025-06-15T15:04:56.812Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Arbor sollers agnosco barba velit officiis aduro depopulo speciosus?",
+      "options": [
+        {
+          "text": "dwell",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabb4"
+        },
+        {
+          "text": "other",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabb5"
+        },
+        {
+          "text": "bench",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabb6"
+        },
+        {
+          "text": "forgery",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabb7"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec583",
+      "_id": "684ee1189ce65e8113fbabb3",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.825Z",
+      "updatedAt": "2025-06-15T15:04:56.825Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Quo laboriosam vapulus?",
+      "options": [
+        {
+          "text": "alligator",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabbb"
+        },
+        {
+          "text": "vista",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabbc"
+        },
+        {
+          "text": "vibration",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabbd"
+        },
+        {
+          "text": "joy",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabbe"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec587",
+      "_id": "684ee1189ce65e8113fbabba",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.839Z",
+      "updatedAt": "2025-06-15T15:04:56.839Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Copiose odio abundans culpa veritatis delinquo?",
+      "options": [
+        {
+          "text": "blossom",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabc2"
+        },
+        {
+          "text": "aircraft",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabc3"
+        },
+        {
+          "text": "unique",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabc4"
+        },
+        {
+          "text": "litter",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabc5"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec58b",
+      "_id": "684ee1189ce65e8113fbabc1",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.849Z",
+      "updatedAt": "2025-06-15T15:04:56.849Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Ambulo capio conduco?",
+      "options": [
+        {
+          "text": "parade",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabc9"
+        },
+        {
+          "text": "underneath",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabca"
+        },
+        {
+          "text": "wallaby",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabcb"
+        },
+        {
+          "text": "chasuble",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabcc"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec58f",
+      "_id": "684ee1189ce65e8113fbabc8",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.861Z",
+      "updatedAt": "2025-06-15T15:04:56.861Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Aequus deinde cotidie volutabrum adipisci uterque cui velit aurum viscus?",
+      "options": [
+        {
+          "text": "swine",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabd0"
+        },
+        {
+          "text": "disclosure",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabd1"
+        },
+        {
+          "text": "bog",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabd2"
+        },
+        {
+          "text": "promise",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabd3"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec593",
+      "_id": "684ee1189ce65e8113fbabcf",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.874Z",
+      "updatedAt": "2025-06-15T15:04:56.874Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Aer qui conicio repudiandae bene triduana thesaurus maxime altus?",
+      "options": [
+        {
+          "text": "soliloquy",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabd7"
+        },
+        {
+          "text": "optimal",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabd8"
+        },
+        {
+          "text": "trash",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabd9"
+        },
+        {
+          "text": "dwell",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabda"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec597",
+      "_id": "684ee1189ce65e8113fbabd6",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.885Z",
+      "updatedAt": "2025-06-15T15:04:56.885Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Vis maiores vespillo conventus amita vorax trucido deserunt?",
+      "options": [
+        {
+          "text": "interior",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabde"
+        },
+        {
+          "text": "submitter",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabdf"
+        },
+        {
+          "text": "blowgun",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabe0"
+        },
+        {
+          "text": "hippodrome",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabe1"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec59b",
+      "_id": "684ee1189ce65e8113fbabdd",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.898Z",
+      "updatedAt": "2025-06-15T15:04:56.898Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Triduana trucido colligo clam?",
+      "options": [
+        {
+          "text": "fit",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabe5"
+        },
+        {
+          "text": "poetry",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabe6"
+        },
+        {
+          "text": "lady",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabe7"
+        },
+        {
+          "text": "cow",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabe8"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec59f",
+      "_id": "684ee1189ce65e8113fbabe4",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.910Z",
+      "updatedAt": "2025-06-15T15:04:56.910Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Tergum catena dens aggredior quod synagoga?",
+      "options": [
+        {
+          "text": "advertisement",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabec"
+        },
+        {
+          "text": "fibre",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabed"
+        },
+        {
+          "text": "sock",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabee"
+        },
+        {
+          "text": "drug",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabef"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d64164f05af3cec5a3",
+      "_id": "684ee1189ce65e8113fbabeb",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.921Z",
+      "updatedAt": "2025-06-15T15:04:56.921Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Nemo confugo vetus sol tabula?",
+      "options": [
+        {
+          "text": "hyphenation",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabf3"
+        },
+        {
+          "text": "disadvantage",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabf4"
+        },
+        {
+          "text": "sonar",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabf5"
+        },
+        {
+          "text": "challenge",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabf6"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5a7",
+      "_id": "684ee1189ce65e8113fbabf2",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.933Z",
+      "updatedAt": "2025-06-15T15:04:56.933Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Sortitus ademptio illum super aegre?",
+      "options": [
+        {
+          "text": "intellect",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabfa"
+        },
+        {
+          "text": "lender",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabfb"
+        },
+        {
+          "text": "handover",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabfc"
+        },
+        {
+          "text": "typeface",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbabfd"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5ab",
+      "_id": "684ee1189ce65e8113fbabf9",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.945Z",
+      "updatedAt": "2025-06-15T15:04:56.945Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Tondeo cuppedia teres aeger abbas?",
+      "options": [
+        {
+          "text": "descent",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac01"
+        },
+        {
+          "text": "pearl",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac02"
+        },
+        {
+          "text": "hammock",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac03"
+        },
+        {
+          "text": "fowl",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac04"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5af",
+      "_id": "684ee1189ce65e8113fbac00",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.957Z",
+      "updatedAt": "2025-06-15T15:04:56.957Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Depulso adinventitias ducimus capillus?",
+      "options": [
+        {
+          "text": "step-mother",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac08"
+        },
+        {
+          "text": "programme",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac09"
+        },
+        {
+          "text": "gym",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac0a"
+        },
+        {
+          "text": "clamp",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac0b"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5b3",
+      "_id": "684ee1189ce65e8113fbac07",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.969Z",
+      "updatedAt": "2025-06-15T15:04:56.969Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Certe adaugeo unus carbo patrocinor conor consequuntur et constans?",
+      "options": [
+        {
+          "text": "experience",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac0f"
+        },
+        {
+          "text": "license",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac10"
+        },
+        {
+          "text": "cook",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac11"
+        },
+        {
+          "text": "daughter",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac12"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5b7",
+      "_id": "684ee1189ce65e8113fbac0e",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.982Z",
+      "updatedAt": "2025-06-15T15:04:56.982Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Bestia sufficio utique appositus strenuus conatus taedium quam baiulus vesper?",
+      "options": [
+        {
+          "text": "bathhouse",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac16"
+        },
+        {
+          "text": "tuber",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac17"
+        },
+        {
+          "text": "vestment",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac18"
+        },
+        {
+          "text": "scale",
+          "votes": 0,
+          "_id": "684ee1189ce65e8113fbac19"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5bb",
+      "_id": "684ee1189ce65e8113fbac15",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:56.993Z",
+      "updatedAt": "2025-06-15T15:04:56.993Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Tum tyrannus dedecor cerno vaco?",
+      "options": [
+        {
+          "text": "gray",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac1d"
+        },
+        {
+          "text": "plastic",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac1e"
+        },
+        {
+          "text": "vision",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac1f"
+        },
+        {
+          "text": "haircut",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac20"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5bf",
+      "_id": "684ee1199ce65e8113fbac1c",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.006Z",
+      "updatedAt": "2025-06-15T15:04:57.006Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Admitto sortitus capillus amoveo alias vulgivagus cohors vox amplus?",
+      "options": [
+        {
+          "text": "final",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac24"
+        },
+        {
+          "text": "sushi",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac25"
+        },
+        {
+          "text": "manner",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac26"
+        },
+        {
+          "text": "governance",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac27"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5c3",
+      "_id": "684ee1199ce65e8113fbac23",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.017Z",
+      "updatedAt": "2025-06-15T15:04:57.017Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Aeger acsi ut absorbeo officia patruus cursim conor?",
+      "options": [
+        {
+          "text": "parade",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac2b"
+        },
+        {
+          "text": "flat",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac2c"
+        },
+        {
+          "text": "fibre",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac2d"
+        },
+        {
+          "text": "backbone",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac2e"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5c7",
+      "_id": "684ee1199ce65e8113fbac2a",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.028Z",
+      "updatedAt": "2025-06-15T15:04:57.028Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Debitis cunabula sto abbas undique tenuis torrens terror?",
+      "options": [
+        {
+          "text": "republican",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac32"
+        },
+        {
+          "text": "challenge",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac33"
+        },
+        {
+          "text": "forager",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac34"
+        },
+        {
+          "text": "coordination",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac35"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d74164f05af3cec5cb",
+      "_id": "684ee1199ce65e8113fbac31",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.040Z",
+      "updatedAt": "2025-06-15T15:04:57.040Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Crinis adimpleo defetiscor?",
+      "options": [
+        {
+          "text": "brook",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac39"
+        },
+        {
+          "text": "handful",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac3a"
+        },
+        {
+          "text": "final",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac3b"
+        },
+        {
+          "text": "pliers",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac3c"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5cf",
+      "_id": "684ee1199ce65e8113fbac38",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.051Z",
+      "updatedAt": "2025-06-15T15:04:57.051Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Suasoria voluptatibus contego turba ademptio sonitus delicate conventus clam turpis?",
+      "options": [
+        {
+          "text": "lobster",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac40"
+        },
+        {
+          "text": "institute",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac41"
+        },
+        {
+          "text": "academics",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac42"
+        },
+        {
+          "text": "swath",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac43"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5d3",
+      "_id": "684ee1199ce65e8113fbac3f",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.064Z",
+      "updatedAt": "2025-06-15T15:04:57.064Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Annus velum argentum concedo causa?",
+      "options": [
+        {
+          "text": "department",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac47"
+        },
+        {
+          "text": "technician",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac48"
+        },
+        {
+          "text": "sport",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac49"
+        },
+        {
+          "text": "mousse",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac4a"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5d7",
+      "_id": "684ee1199ce65e8113fbac46",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.076Z",
+      "updatedAt": "2025-06-15T15:04:57.076Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Adaugeo angulus audio aiunt carmen?",
+      "options": [
+        {
+          "text": "monster",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac4e"
+        },
+        {
+          "text": "vista",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac4f"
+        },
+        {
+          "text": "substitution",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac50"
+        },
+        {
+          "text": "cow",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac51"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5db",
+      "_id": "684ee1199ce65e8113fbac4d",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.088Z",
+      "updatedAt": "2025-06-15T15:04:57.088Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Conor conculco uberrime aqua maxime?",
+      "options": [
+        {
+          "text": "responsibility",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac55"
+        },
+        {
+          "text": "pacemaker",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac56"
+        },
+        {
+          "text": "moment",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac57"
+        },
+        {
+          "text": "gripper",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac58"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5df",
+      "_id": "684ee1199ce65e8113fbac54",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.100Z",
+      "updatedAt": "2025-06-15T15:04:57.100Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Undique arca ea?",
+      "options": [
+        {
+          "text": "minion",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac5c"
+        },
+        {
+          "text": "diagram",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac5d"
+        },
+        {
+          "text": "divine",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac5e"
+        },
+        {
+          "text": "fishery",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac5f"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5e3",
+      "_id": "684ee1199ce65e8113fbac5b",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.112Z",
+      "updatedAt": "2025-06-15T15:04:57.112Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Compono ars ut paulatim quae?",
+      "options": [
+        {
+          "text": "request",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac63"
+        },
+        {
+          "text": "order",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac64"
+        },
+        {
+          "text": "accelerator",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac65"
+        },
+        {
+          "text": "pinstripe",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac66"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5e7",
+      "_id": "684ee1199ce65e8113fbac62",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.122Z",
+      "updatedAt": "2025-06-15T15:04:57.122Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Confero hic argumentum sumptus alias?",
+      "options": [
+        {
+          "text": "reorganisation",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac6a"
+        },
+        {
+          "text": "rationale",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac6b"
+        },
+        {
+          "text": "hygienic",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac6c"
+        },
+        {
+          "text": "nephew",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac6d"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5eb",
+      "_id": "684ee1199ce65e8113fbac69",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.132Z",
+      "updatedAt": "2025-06-15T15:04:57.132Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Non urbs complectus angustus?",
+      "options": [
+        {
+          "text": "fold",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac71"
+        },
+        {
+          "text": "atrium",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac72"
+        },
+        {
+          "text": "handful",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac73"
+        },
+        {
+          "text": "earth",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac74"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5ef",
+      "_id": "684ee1199ce65e8113fbac70",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.144Z",
+      "updatedAt": "2025-06-15T15:04:57.144Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Alius solium cruciamentum deorsum?",
+      "options": [
+        {
+          "text": "poetry",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac78"
+        },
+        {
+          "text": "peninsula",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac79"
+        },
+        {
+          "text": "sushi",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac7a"
+        },
+        {
+          "text": "archaeology",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac7b"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d84164f05af3cec5f3",
+      "_id": "684ee1199ce65e8113fbac77",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.154Z",
+      "updatedAt": "2025-06-15T15:04:57.154Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Veniam aeneus explicabo arbustum thermae defungo?",
+      "options": [
+        {
+          "text": "mathematics",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac7f"
+        },
+        {
+          "text": "teriyaki",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac80"
+        },
+        {
+          "text": "skeleton",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac81"
+        },
+        {
+          "text": "fit",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac82"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec5f7",
+      "_id": "684ee1199ce65e8113fbac7e",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.165Z",
+      "updatedAt": "2025-06-15T15:04:57.165Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Conventus defungo sint ventosus convoco accusator angelus laudantium?",
+      "options": [
+        {
+          "text": "breastplate",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac86"
+        },
+        {
+          "text": "excess",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac87"
+        },
+        {
+          "text": "wear",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac88"
+        },
+        {
+          "text": "sprinkles",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac89"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec5fb",
+      "_id": "684ee1199ce65e8113fbac85",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.176Z",
+      "updatedAt": "2025-06-15T15:04:57.176Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Allatus cresco cito vigilo architecto vel depono deporto?",
+      "options": [
+        {
+          "text": "CD",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac8d"
+        },
+        {
+          "text": "reservation",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac8e"
+        },
+        {
+          "text": "lotion",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac8f"
+        },
+        {
+          "text": "meatloaf",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac90"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec5ff",
+      "_id": "684ee1199ce65e8113fbac8c",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.186Z",
+      "updatedAt": "2025-06-15T15:04:57.186Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Decumbo cribro error sodalitas adversus?",
+      "options": [
+        {
+          "text": "making",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac94"
+        },
+        {
+          "text": "representation",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac95"
+        },
+        {
+          "text": "consistency",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac96"
+        },
+        {
+          "text": "hepatitis",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac97"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec603",
+      "_id": "684ee1199ce65e8113fbac93",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.198Z",
+      "updatedAt": "2025-06-15T15:04:57.198Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Civitas cribro vomer depraedor assumenda?",
+      "options": [
+        {
+          "text": "brush",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac9b"
+        },
+        {
+          "text": "duster",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac9c"
+        },
+        {
+          "text": "formamide",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac9d"
+        },
+        {
+          "text": "volleyball",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbac9e"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec607",
+      "_id": "684ee1199ce65e8113fbac9a",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.209Z",
+      "updatedAt": "2025-06-15T15:04:57.209Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Universe doloremque pecco utrum veritas vereor decet balbus iste desparatus?",
+      "options": [
+        {
+          "text": "pliers",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbaca2"
+        },
+        {
+          "text": "peony",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbaca3"
+        },
+        {
+          "text": "interchange",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbaca4"
+        },
+        {
+          "text": "seafood",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbaca5"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec60b",
+      "_id": "684ee1199ce65e8113fbaca1",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.221Z",
+      "updatedAt": "2025-06-15T15:04:57.221Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Sponte voluptas esse vulgivagus cura laudantium agnosco auctus?",
+      "options": [
+        {
+          "text": "honesty",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbaca9"
+        },
+        {
+          "text": "bandwidth",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacaa"
+        },
+        {
+          "text": "swine",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacab"
+        },
+        {
+          "text": "bid",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacac"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec60f",
+      "_id": "684ee1199ce65e8113fbaca8",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.232Z",
+      "updatedAt": "2025-06-15T15:04:57.232Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Vae somniculosus cruentus defaeco aveho praesentium arcesso suus curto desolo?",
+      "options": [
+        {
+          "text": "councilman",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacb0"
+        },
+        {
+          "text": "sailor",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacb1"
+        },
+        {
+          "text": "fundraising",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacb2"
+        },
+        {
+          "text": "hoof",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacb3"
+        }
+      ],
+      "correctOptionIndex": 3,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec613",
+      "_id": "684ee1199ce65e8113fbacaf",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.244Z",
+      "updatedAt": "2025-06-15T15:04:57.244Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Exercitationem asporto inventore corona atqui stipes desino?",
+      "options": [
+        {
+          "text": "recovery",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacb7"
+        },
+        {
+          "text": "violin",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacb8"
+        },
+        {
+          "text": "birdbath",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacb9"
+        },
+        {
+          "text": "morning",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacba"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec617",
+      "_id": "684ee1199ce65e8113fbacb6",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.256Z",
+      "updatedAt": "2025-06-15T15:04:57.256Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Volva vester auctus cornu?",
+      "options": [
+        {
+          "text": "soybean",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacbe"
+        },
+        {
+          "text": "godparent",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacbf"
+        },
+        {
+          "text": "excess",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacc0"
+        },
+        {
+          "text": "petal",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacc1"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9d94164f05af3cec61b",
+      "_id": "684ee1199ce65e8113fbacbd",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.267Z",
+      "updatedAt": "2025-06-15T15:04:57.267Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Terminatio curis cur?",
+      "options": [
+        {
+          "text": "duffel",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacc5"
+        },
+        {
+          "text": "fireplace",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacc6"
+        },
+        {
+          "text": "pressure",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacc7"
+        },
+        {
+          "text": "piglet",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacc8"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9da4164f05af3cec61f",
+      "_id": "684ee1199ce65e8113fbacc4",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.279Z",
+      "updatedAt": "2025-06-15T15:04:57.279Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Eligendi ipsum taceo uterque creptio non quam?",
+      "options": [
+        {
+          "text": "bran",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbaccc"
+        },
+        {
+          "text": "adrenalin",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbaccd"
+        },
+        {
+          "text": "consistency",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacce"
+        },
+        {
+          "text": "encouragement",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbaccf"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "privacy": "public",
+      "author": "684ed9da4164f05af3cec623",
+      "_id": "684ee1199ce65e8113fbaccb",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.291Z",
+      "updatedAt": "2025-06-15T15:04:57.291Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Comis modi vulpes aliqua bene apparatus avarus?",
+      "options": [
+        {
+          "text": "travel",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacd3"
+        },
+        {
+          "text": "address",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacd4"
+        },
+        {
+          "text": "doorpost",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacd5"
+        },
+        {
+          "text": "fishery",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacd6"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9da4164f05af3cec627",
+      "_id": "684ee1199ce65e8113fbacd2",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.305Z",
+      "updatedAt": "2025-06-15T15:04:57.305Z",
+      "__v": 0
+    },
+    "success": true
+  },
+  {
+    "msg": "Poll created successfully",
+    "poll": {
+      "question": "Volo vinitor tristis cognatus debeo appono laborum?",
+      "options": [
+        {
+          "text": "transom",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacda"
+        },
+        {
+          "text": "jet",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacdb"
+        },
+        {
+          "text": "bookcase",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacdc"
+        },
+        {
+          "text": "heartache",
+          "votes": 0,
+          "_id": "684ee1199ce65e8113fbacdd"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "privacy": "public",
+      "author": "684ed9da4164f05af3cec62b",
+      "_id": "684ee1199ce65e8113fbacd9",
+      "votes": [],
+      "createdAt": "2025-06-15T15:04:57.317Z",
+      "updatedAt": "2025-06-15T15:04:57.317Z",
+      "__v": 0
+    },
+    "success": true
+  }
+]

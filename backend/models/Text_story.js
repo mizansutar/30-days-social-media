@@ -19,4 +19,8 @@ const textStorySchema = new mongoose.Schema(
   { timestamps: true }
 );
 
+
+textStorySchema.index({ description: "text" });
+
+
 module.exports = mongoose.model("TextStory", textStorySchema);

@@ -46,6 +46,10 @@ const videoSchema = new mongoose.Schema(
     timestamps: true, // adds createdAt and updatedAt fields
   }
 );
+
+
+videoSchema.index({ description: "text" });
+
 Video = mongoose.model("Video_model", videoSchema);
 
 module.exports = Video;

@@ -46,6 +46,11 @@ const postSchema = new mongoose.Schema(
     timestamps: true, // adds createdAt and updatedAt fields
   }
 );
+
+
+postSchema.index({ description: "text" });
+
+
 Post_images = mongoose.model("Post_images", postSchema);
 
 module.exports = Post_images;

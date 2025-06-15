@@ -1,0 +1,114 @@
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.grid-item {
+  background-color: #0d1b2a;
+  color: #0ef;
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px solid #0ef;
+  transition: transform 0.2s ease-in-out;
+}
+
+.grid-item:hover {
+  transform: scale(1.03);
+}
+
+.post-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+}
+
+.text-post {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.poll-option {
+  display: block;
+  margin: 6px 0;
+  font-size: 0.95rem;
+  color: #ccc;
+}
+
+.poll-option input {
+  margin-right: 8px;
+}
+
+.users-section {
+  width: 100%;
+  padding: 1rem 20px;
+  background-color: #081b29;
+  border-radius: 12px;
+  border: 1px solid #0ef;
+  margin-top: 2rem;
+}
+
+.users-section h3 {
+  font-size: 1.2rem;
+  color: #0ef;
+  margin-bottom: 1rem;
+}
+
+.user-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.insta-user-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: transparent;
+  border-bottom: 1px solid #1a2f3a;
+  padding: 0.8rem 0;
+}
+
+.insta-user-avatar {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 0.8rem;
+}
+
+.insta-user-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.insta-username {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.insta-subtext {
+  color: #aaa;
+  font-size: 0.8rem;
+}
+
+.insta-follow-btn {
+  background: none;
+  color: #0ef;
+  border: 1px solid #0ef;
+  border-radius: 20px;
+  padding: 5px 14px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.insta-follow-btn:hover {
+  background: #0ef;
+  color: #081b29;
+}

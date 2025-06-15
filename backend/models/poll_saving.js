@@ -48,4 +48,7 @@ const PollSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
+PollSchema.index({ question: "text" });
+
+
 module.exports = mongoose.model("Poll", PollSchema);

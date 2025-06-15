@@ -1,0 +1,104 @@
+.header {
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.6rem 1rem;
+  background-color: black;
+  color: white;
+  height: 10vh;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+
+  &__left {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .onac-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #0ef;
+  }
+
+  &__menu {
+    display: none;
+    cursor: pointer;
+    color: wheat;
+  }
+
+  &__searchForm {
+    display: flex;
+    flex: 0.6;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 40px;
+    padding: 0.3rem 0.5rem;
+    background-color: transparent;
+
+    input {
+      flex: 1;
+      border: none;
+      padding: 0.4rem;
+      background: transparent;
+      color: aqua;
+
+      &:focus {
+        outline: none;
+      }
+    }
+
+    button {
+      border: none;
+      background: transparent;
+      color: #0ef;
+      cursor: pointer;
+      padding: 0 0.5rem;
+    }
+
+    .header__mic {
+      margin-left: 0.5rem;
+      color: #0ef;
+      cursor: pointer;
+    }
+  }
+
+  &__icons {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    .header__avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+      cursor: pointer;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    &__menu {
+      display: block;
+    }
+
+    &__searchForm {
+      flex: 1 1 100%;
+      margin: 0.5rem 0;
+    }
+
+    &__icons {
+      justify-content: flex-end;
+      width: 100%;
+    }
+  }
+}
+
